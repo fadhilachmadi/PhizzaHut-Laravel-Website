@@ -1,0 +1,1 @@
+index.blade.php = Tampilan dari Cart. Member bisa update sama delete isi dari cart nya

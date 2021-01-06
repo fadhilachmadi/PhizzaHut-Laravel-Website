@@ -1,0 +1,2 @@
+history.blade.php = Blade yang nampilin semua transaksi yang pernah dilakuin 1 user (user yang login saat itu)
+detail.blade.php = Blade yang nampilin detail dari transaksi tertentu (pas dia pencet salah satu transaksi di history)
